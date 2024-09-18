@@ -1,1 +1,1 @@
-# Sea_Battle_CPP
+# SeaBattle C++ Project
